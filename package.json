@@ -1,0 +1,13 @@
+{
+  "name": "express_guestbook",
+  "private": true,
+  "version": "0.1.0",
+  "description": "익스프레스 인 액션 방명록 예제",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Suhyeon Kim <s2017s25@e-mirim.hs.kr>",
+  "license": "ISC"
+}
